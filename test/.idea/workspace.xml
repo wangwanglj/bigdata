@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42359e5a-6f41-4584-aa1c-711dfd36ef96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hdfs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HdfsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/HdfsClient.class" afterDir="false" />
-    </list>
+    <list default="true" id="42359e5a-6f41-4584-aa1c-711dfd36ef96" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -160,7 +149,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="231" />
     <option name="y" value="95" />
     <option name="width" value="1540" />
@@ -303,7 +292,7 @@
       <workItem from="1590216782677" duration="3147000" />
       <workItem from="1590225791898" duration="7003000" />
       <workItem from="1590243032775" duration="27000" />
-      <workItem from="1590243079422" duration="702000" />
+      <workItem from="1590243079422" duration="1114000" />
     </task>
     <servers />
   </component>
@@ -340,11 +329,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21253000" />
+    <option name="totallyTimeSpent" value="21665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="231" y="95" width="1540" height="892" extended-state="0" />
-    <editor active="true" />
+    <frame x="231" y="95" width="1540" height="892" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19054054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
