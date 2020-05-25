@@ -8,7 +8,7 @@ import java.net.URISyntaxException;
 
 /**
  * <pre>
- *
+ *  hdfs文件简单处理
  * </pre>
  *
  * @author Lijin
